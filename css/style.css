@@ -1,0 +1,14 @@
+body {
+  background-color: #083b4c;
+}
+
+.title {
+  font-size: 75px;
+}
+
+.my-color {
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  background-color: #1389b2;
+}
